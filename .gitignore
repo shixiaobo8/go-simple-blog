@@ -1,0 +1,6 @@
+/.idea
+/*.exe
+Gopkg.lock
+/vendor
+/static/store
+go.sum
